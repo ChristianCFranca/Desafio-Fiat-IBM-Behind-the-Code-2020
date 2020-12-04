@@ -49,11 +49,11 @@ Em seguida, envie um campo de nome `text` com a sua opinião a respeite do carro
 
 Sua requisição no Postman deve se assemelhar à seguinte:
 
-![alt text](https://github.com/ChristianCFranca/Desafio-Fiat-IBM-Behind-the-Code-2020/blob/main/git-images/PostmanReq.png?raw=true)
+![alt text](https://github.com/ChristianCFranca/Desafio-Fiat-IBM-Behind-the-Code-2020/blob/main/git-images/PostmanReq.PNG?raw=true)
 
 Envie e espere alguns segundos. A primeira requisição após muito tempo da API em espera pode ocasionar um erro. Se este for o caso, só reenviar. Você receberá uma resposta na seguinte forma:
 
-![alt text](https://github.com/ChristianCFranca/Desafio-Fiat-IBM-Behind-the-Code-2020/blob/main/git-images/Response.png?raw=true)
+![alt text](https://github.com/ChristianCFranca/Desafio-Fiat-IBM-Behind-the-Code-2020/blob/main/git-images/Response.PNG?raw=true)
 
 A API encontrou determinadas entidades em sua opinião e as classificou positivamente ou negativamente quanto ao sentimento envolvido em cada uma. No final, recomendou um modelo diferente de carro caso o sentimento geral tenha sido negativo. A recomendação levou em conta os tipos de entidades que receberam nota negativa e a prioridade de recomendação. Mais detalhes podem ser encontrados no [Github oficial do desafio](https://github.com/maratonadev-br/desafio-8-2020).
 
