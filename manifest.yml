@@ -1,0 +1,11 @@
+applications:
+  - name: pipeline-desafio8
+    path: .
+    command: python app.py
+    instances: 1
+    routes:
+      - route: ibm-btc-desafio8-fca-ccf.mybluemix.net
+    random-route: true
+    memory: 128M
+    env:
+      LOCATION: 'IBM Cloud'
